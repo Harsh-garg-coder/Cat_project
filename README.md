@@ -49,6 +49,12 @@ cat -help
 
 As cat command is all about displaying the content of multiple files, I am using "stdio.h" header file which contains a predefined "FILE" datatype that help us to work with files and inorder to make it work like a command i used command line arguments. 
 
+## How to use ?
+- Download c compiler.
+- Download this file :- https://github.com/Harsh-garg-coder/Cat_project/blob/master/cat.c
+- Download this file :- https://github.com/Harsh-garg-coder/Cat_project/blob/master/Makefile
+- Run this command :- make
+- use cat command :)
 
 ## Author 
 
