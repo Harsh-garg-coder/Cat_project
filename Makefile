@@ -1,3 +1,3 @@
 compile:
-	@echo Compliling the cat.c file
+	@echo Compiling the cat.c file
 	gcc cat.c
